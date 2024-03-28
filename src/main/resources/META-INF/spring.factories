@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.say.common.sse.controller.SseController,\
+  com.say.common.sse.service.SseService
